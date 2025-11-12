@@ -100,8 +100,8 @@ function ContactCTA({ id }) {
           <FaEnvelope />
           Email Me
         </a>
-        <a href="/Sudeep P S - Resume.pdf" download className="btn btn-ghost">Download Resume</a>
-        <a href="/Sudeep P S - Resume.pdf" target="_blank" rel="noreferrer" className="btn btn-ghost">View Resume</a>
+        <a href="/Sudeep P S -Resume.pdf" download className="btn btn-ghost">Download Resume</a>
+        <a href="/Sudeep P S -Resume.pdf" target="_blank" rel="noreferrer" className="btn btn-ghost">View Resume</a>
       </div>
       <div ref={socialRef} className="social-icons">
         <a href="https://github.com/Sudeep-Pazhoor" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>

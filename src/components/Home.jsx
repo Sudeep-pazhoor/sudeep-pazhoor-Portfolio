@@ -39,7 +39,7 @@ function Home() {
       <h1>Sudeep P S - MEARN Stack Developer</h1>
       <p>Seeking a career in the technical field. I possess knowledge of programming and web design languages, including: HTML, CSS, React, JavaScript, and MongoDB. As a fresher, I have built small projects related to games and website models, showcasing my skills and passion...</p>
       <p>Currently working as Software Developer at Facein Technologies.</p>
-      <a href="/Sudeep P S - Resume.pdf" download>Download Resume</a>
+      <a href="/Sudeep P S -Resume.pdf" download>Download Resume</a>
       <div ref={skillsRef} style={{ display: 'flex', gap: '20px', whiteSpace: 'nowrap', overflow: 'hidden' }}>
         {[...skills, ...skills].map((skill, i) => ( // Duplicate for seamless loop
           <div key={i} className="card" style={{ minWidth: '150px', textAlign: 'center' }}>
