@@ -41,7 +41,7 @@ function Hero() {
           </a>
         </div>
       </div>
-      
+      <br /><br /><br />
       <div className="scroll-indicator" onClick={() => document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' })}>
         <span>Scroll</span>
       </div>
