@@ -36,7 +36,7 @@ function Hero() {
           <a href="#contact" className="btn btn-primary">
             Get In Touch <FaArrowRight />
           </a>
-          <a href="/Sudeep P S -Resume.pdf" download className="btn btn-secondary">
+          <a href="/Sudeep P S - Resume.pdf" download className="btn btn-secondary">
             <FaDownload /> Download Resume
           </a>
         </div>
