@@ -3,7 +3,7 @@ function Experience() {
     {
       title: 'Full-Stack Developer',
       company: 'FaceIn Technologies',
-      period: 'Present',
+      period: 'November',
       location: 'Ernakulam, India',
       description: [
         'Engineered scalable web and mobile applications using React.js, Astro, React Native (Expo), MongoDB, Express.js, and Node.js',
