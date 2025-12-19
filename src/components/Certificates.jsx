@@ -5,14 +5,14 @@ function Certificates() {
      {
       title: 'ME(A)RN Stack Certification',
       provider: 'National Counsil for Technology and Training',
-      date: '2025',
+      date: 'May 2025',
       description: 'Presented final-year project at 6th International Conference on Computational Intelligence and Data Technology.',
       link: 'https://drive.google.com/file/d/13GRA_6irsPTEjoIkwHGolJe-o-YJVVLb/view?usp=sharing',
     },
     {
       title: 'ICCIDT Conference',
       provider: '6th ICCIDT Conference',
-      date: '2024',
+      date: 'May 2024',
       description: 'Presented final-year project at 6th International Conference on Computational Intelligence and Data Technology.',
       link: 'https://drive.google.com/file/d/1wf3Re-KkAlWAsW4ZZ2zG8trkHRHzoLgr/view?usp=sharing',
     },
@@ -32,15 +32,15 @@ function Certificates() {
     },
     {
       title: 'Google Data Analytics',
-      provider: 'Google',
+      provider: 'Coursera - Google',
       date: 'May 2023',
       description: 'Professional certificate in data analytics covering data collection, analysis, and visualization techniques.',
       link: 'https://drive.google.com/file/d/1NOyTB3kIL_Ruold2sEkDsLsDnjDnB5o8/view?usp=sharing',
     },
     
     {
-      title: 'Disney+ Hotstar Clone Bootcamp',
-      provider: 'Bootcamp',
+      title: 'Disney + Hotstar Clone Bootcamp',
+      provider: 'Devtown Bootcamp',
       date: '2023',
       description: 'Completed intensive bootcamp focused on building a full-stack Disney+ Hotstar clone application.',
       link: 'https://drive.google.com/file/d/17-IhwswU5f0ClCP3Zild_ZcGSoX7_HFU/view?usp=sharing',
