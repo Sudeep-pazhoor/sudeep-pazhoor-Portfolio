@@ -40,6 +40,7 @@ function Hero() {
             <FaDownload /> Download Resume
           </a>
         </div>
+
       </div>
       <br /><br /><br />
       <div className="scroll-indicator" onClick={() => document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' })}>

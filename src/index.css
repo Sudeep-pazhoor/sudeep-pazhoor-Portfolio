@@ -1747,6 +1747,12 @@ section {
     padding: 0.75rem 1.5rem;
     font-size: 0.95rem;
   }
+
+  .scroll-indicator {
+    position: relative;
+    bottom: auto;
+    margin-top: 3rem;
+  }
   
   .works-grid,
   .education-grid {
