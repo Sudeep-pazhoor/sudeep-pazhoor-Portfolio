@@ -3,6 +3,14 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 function Works() {
   const projects = [
     {
+      title: 'Boundless Travelogues',
+      description: 'Modern travel website showcasing curated tour packages and destinations across the globe. Features an intuitive interface with detailed itineraries, stunning destination galleries, and seamless booking experience. Designed for smooth browsing and easy customer interaction with responsive design that works perfectly on all devices. Built to inspire wanderlust and make travel planning effortless.',
+      tech: ['HTML5', 'CSS', 'JavaScript','Astro','React','GSAP','Bootstrap'],
+      github: null,
+      demo: 'https://boundlesstravelogues.com',
+      image: '/Boundless.png',
+    },
+    {
       title: 'FaceIn Technologies Official Website',
       description: 'High-performance corporate website delivering cutting-edge technology solutions. Built with modern frameworks and managed by PM2 for optimal scalability and reliability.',
       tech: ['Astro', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Anime.js', 'Node.js', 'PM2'],

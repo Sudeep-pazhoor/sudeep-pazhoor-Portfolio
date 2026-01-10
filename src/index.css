@@ -962,6 +962,12 @@ section {
   margin-top: 3rem;
 }
 
+.works-grid .work-card:nth-child(3):nth-last-child(1) {
+  grid-column: 1 / -1;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
 .work-card {
   background: var(--card-bg);
   border: 1px solid var(--border-color);
