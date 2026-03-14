@@ -11,20 +11,20 @@ function Works() {
       image: '/Boundless.png',
     },
     {
-      title: 'FaceIn Technologies Official Website',
-      description: 'High-performance corporate website delivering cutting-edge technology solutions. Built with modern frameworks and managed by PM2 for optimal scalability and reliability.',
-      tech: ['Astro', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Anime.js', 'Node.js', 'PM2'],
-      github: null,
-      demo: 'https://www.facein.in/',
-      image: '/Facein.jpeg',
-    },
-    {
       title: 'Yigalia Pharmaceuticals',
       description: 'Professional pharmaceutical company website showcasing comprehensive product catalog and company information. Features modern design with detailed product specifications, company overview, and seamless user experience. Built with responsive architecture to effectively present pharmaceutical solutions and enhance customer engagement.',
       tech: ['React', 'HTML5', 'CSS', 'JavaScript', 'TypeScript', 'EmailJS', 'Astro'],
       github: null,
       demo: 'https://yigalia.in',
       image: '/Yigalia.jpeg',
+    },
+    {
+      title: 'FaceIn Technologies Official Website',
+      description: 'High-performance corporate website delivering cutting-edge technology solutions. Built with modern frameworks and managed by PM2 for optimal scalability and reliability.',
+      tech: ['Astro', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Anime.js', 'Node.js', 'PM2'],
+      github: null,
+      demo: 'https://www.facein.in/',
+      image: '/Facein.jpeg',
     },
     {
       title: 'Online Gaming Platform',
