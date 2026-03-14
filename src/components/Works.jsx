@@ -19,6 +19,14 @@ function Works() {
       image: '/Facein.jpeg',
     },
     {
+      title: 'Yigalia Pharmaceuticals',
+      description: 'Professional pharmaceutical company website showcasing comprehensive product catalog and company information. Features modern design with detailed product specifications, company overview, and seamless user experience. Built with responsive architecture to effectively present pharmaceutical solutions and enhance customer engagement.',
+      tech: ['React', 'HTML5', 'CSS', 'JavaScript', 'TypeScript', 'EmailJS', 'Astro'],
+      github: null,
+      demo: 'https://yigalia.in',
+      image: '/Yigalia.jpeg',
+    },
+    {
       title: 'Online Gaming Platform',
       description: 'Scalable MERN-based gaming platform with user authentication, profile management, and admin controls. Features 1-minute play sessions, pause functionality, and paid continuation options. Includes admin dashboard for game management, user accounts, and secure payment systems.',
       tech: ['MongoDB', 'Express.js', 'React', 'Node.js', 'JavaScript'],
